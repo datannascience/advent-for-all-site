@@ -47,6 +47,7 @@ article.door{padding:40px 0 20px}
 .door .pic.placeholder{display:grid;place-items:center;font-family:"Space Grotesk",sans-serif;font-size:96px;font-weight:600;color:#fff}
 .door h1{font-size:clamp(32px,6vw,48px);margin-bottom:6px}
 .door .by{color:var(--ink-soft);margin:0 0 6px;font-size:18px}
+.eyebrow .cat{color:var(--magenta)}
 .chip{display:inline-block;font-size:12.5px;font-weight:600;color:var(--green-deep);border:1px solid rgba(162,199,96,.7);padding:3px 12px;border-radius:999px;margin:6px 0 20px}
 .door .body{font-size:18px}
 .door blockquote{margin:28px 0;padding:0 0 0 22px;border-left:3px solid var(--magenta);font-family:"Space Grotesk",sans-serif;font-size:22px;line-height:1.4;color:var(--blue)}
